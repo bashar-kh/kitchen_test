@@ -1,1 +1,1 @@
-Test Repository to lern Kitchen with Vagrnat
+Test Repository to learn Kitchen with Vagrnat
